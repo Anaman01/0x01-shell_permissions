@@ -9,3 +9,4 @@ mv /tmp/betty /tmp/my_first_directory-Move the file betty from /tmp/ to /tmp/my_
 rm /tmp/my_first_directory/betty-Delete the file betty.
 rmdir /tmp/my_first_directory-Delete the directory my_first_directory that is in the /tmp directory.
 cd - -changes the working directory to the previous one.
+file /tmp/iamafile - script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
