@@ -11,3 +11,4 @@ chmod 007 hello-a script that sets the permission to the file hello as follows:
 Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
+chmod 753 hello-a script that sets the mode of the file hello to this:
